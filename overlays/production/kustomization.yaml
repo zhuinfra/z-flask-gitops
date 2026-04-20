@@ -6,7 +6,7 @@ resources:
 
 images:
   - name: yaoshunyu/z-flask-app
-    newTag: 5740433efc2d915d6c7baf1897aa47be4bc2a7e0
+    newTag: 0121392c37941029130c0651786c181d1407ef7f
 
 replicas:
   - name: z-flask-app
